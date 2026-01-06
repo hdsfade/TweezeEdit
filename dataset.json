@@ -1,0 +1,18 @@
+{
+    "0000": {
+      "image_path": "examples/0000.jpg",
+      "src_prompt": "a slanted mountain bicycle on the road in front of a building",
+      "tgt_prompt": "a slanted [rusty] mountain bicycle on the road in front of a building"
+    },
+    "0001": {
+      "image_path": "examples/0001.jpg",
+      "src_prompt": "a [round] cake with orange frosting on a wooden plate",
+      "tgt_prompt": "a [square] cake with orange frosting on a wooden plate"
+    },
+    "0002": {
+      "image_path": "examples/0002.jpg",
+      "src_prompt": "a [cat] sitting on a wooden chair",
+      "tgt_prompt": "a [dog] sitting on a wooden chair"
+    }
+}
+  
